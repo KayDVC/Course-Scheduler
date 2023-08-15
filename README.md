@@ -35,7 +35,15 @@ Example compilation & run :
 ```bash
 cd src
 javac App.java
-java App ../samples/input/One.txt > ../samples/output/One.txt
+java App ../samples/input/One.txt
+
+---Course Schedule---
+CSE4301 MWF0900
+MTH2001 MWF1500
+COM2223 MWF1100
+
+---Courses With a Time Conflict---
+PHY1001 MWF1500 
 ```
 
 Don't degrade yourself by using Eclipse; [here's a tutorial](https://code.visualstudio.com/docs/java/java-tutorial) on how to setup VS Code for Java. Basic, but at least you'll be able to sleep at night with dignity and self-respect.
