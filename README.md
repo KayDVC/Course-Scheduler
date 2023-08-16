@@ -54,7 +54,7 @@ This project was not meant to be used casually. It doesn't take multiple, common
 
 For example, there is no way to specify the duration of a course.
 
-If I was to recreate the app, I include the aforementioned functionality.It would most likely be in Python. A somewhat similar demo can be found in [the sample recreation](SampleRecreation.ipynb).
+If I was to recreate the app, I would include more robust functionality to make the program ideal for casual use. A somewhat similar mockup of an updated version can be found in [the sample recreation](SampleRecreation.ipynb).
 
 If used as "inspiration," please link back to this repo.
 
