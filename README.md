@@ -2,6 +2,7 @@
 1. [Objective](#objective)
 2. [Use](#use)
     * [Input Files](#input-files)
+    * [Example Run](#example-run)
 3. [Additional Considerations](#additional-considerations)
 
 
@@ -30,7 +31,7 @@ COM1101 MWF0900 MWF1000 MWF1100
 
 _See more examples in `samples/input`_
 
-Example compilation & run :
+### Example Run
 
 ```bash
 cd src
