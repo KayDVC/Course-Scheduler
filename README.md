@@ -17,7 +17,7 @@ Being that it was around the time to schedule my classes for the next semester, 
 
 ## Use
 
-Requires Java. Tested `openjdk 17.0.8`.
+Requires Java. Tested using `openjdk 17.0.8`.
 
 ### Input Files
 
