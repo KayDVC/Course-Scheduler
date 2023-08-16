@@ -50,7 +50,7 @@ Don't degrade yourself by using Eclipse; [here's a tutorial](https://code.visual
 
 ## Additional Considerations
 
-This project was not meant to be used casually. It doesn't take multiple common scenarios in to account. 
+This project was not meant to be used casually. It doesn't take multiple, common scenarios in to account. 
 
 For example, there is no way to specify the duration of a course.
 
